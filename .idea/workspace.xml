@@ -2,146 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2a78f21-d557-48d3-9951-ba514f57a37f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/base/AuthTestBase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/base/LoginTests.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/base/RegisterTests.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/base/TestBase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/config/ConfigurationManager.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/logger/FileTestLogger.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/logger/StdTestLogger.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/logger/TestLogger.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/utils/StringUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/utils/TestEnv.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/utils/TestServer$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/utils/TestServer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/utils/Url$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/utils/Url$UrlBuilder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/utils/Url.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/utils/Util.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/webdrivermanager/WebDriverManager$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/webdrivermanager/WebDriverManager.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/webdrivermanager/factory/BuildSrvWebDriverFactory$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/webdrivermanager/factory/BuildSrvWebDriverFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/webdrivermanager/factory/CloudWebDriverFactory$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/webdrivermanager/factory/CloudWebDriverFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/webdrivermanager/factory/LocalWebDriverFactory$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/webdrivermanager/factory/LocalWebDriverFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/webdrivermanager/factory/RunOn.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/webdrivermanager/factory/TestBrowser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Infrastructure/webdrivermanager/factory/WebDriverFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Lecture5/Launch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Lecture5/StringProgram.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Lesson3/Lecture3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/Lesson4/Lecture4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/OOP_1/Author.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/OOP_1/Book.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/OOP_1/Lecture7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/OOP_1/LibApp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/inheritance/Admin.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/inheritance/Moderator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/inheritance/MyApp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/inheritance/Reader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/inheritance/Writer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture12/MobileAppTests.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture12/drivers/CameraScreen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture12/drivers/MainScreen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture12/drivers/MobileApplication.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture12/drivers/PhotoEditorScreen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture12/drivers/PublishScreen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture12/drivers/android/AndroidCameraScreen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture12/drivers/android/AndroidMainScreen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture12/drivers/android/AndroidMobileApplication.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture12/drivers/android/AndroidPhotoEditorScreen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture12/drivers/android/AndroidPublishScreen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture12/drivers/ios/IOSCameraScreen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture12/drivers/ios/IOSMainScreen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture12/drivers/ios/IOSMobileApplication.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture12/drivers/ios/IOSPhotoEditorScreen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture12/drivers/ios/IOSPublishScreen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture13/OuterClass$Inner.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture13/OuterClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture_11/Parent.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture_11/abstractt/AbsApp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture_11/abstractt/MobilePhone.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture_11/abstractt/OfficePhone.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/lecture_11/abstractt/Phone.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/trycatchlesson/CustomNotFoundException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/trycatchlesson/MyNewAppForExceptions.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/trycatchlesson/User$UserBuilder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/trycatchlesson/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/trycatchlesson/UserDataMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/trycatchlesson/UserFileDataMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/out/production/AutomationCurse/trycatchlesson2/ExceptionProgramm.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/AutomationCurse.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/log.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/base/AuthTestBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/base/LoginTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/base/RegisterTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/base/TestBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/config/ConfigurationManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/logger/FileTestLogger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/logger/StdTestLogger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/logger/TestLogger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/utils/StringUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/utils/TestEnv.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/utils/TestServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/utils/Url.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/utils/Util.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/webdrivermanager/WebDriverManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/webdrivermanager/factory/BuildSrvWebDriverFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/webdrivermanager/factory/CloudWebDriverFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/webdrivermanager/factory/LocalWebDriverFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/webdrivermanager/factory/RunOn.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/webdrivermanager/factory/TestBrowser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/webdrivermanager/factory/WebDriverFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Lecture5/Launch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Lecture5/StringProgram.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Lesson3/Lecture3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/Lesson4/Lecture4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/OOP_1/Author.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/OOP_1/Book.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/OOP_1/Lecture7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/OOP_1/LibApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/OOP_1/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/inheritance/Admin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/inheritance/Moderator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/inheritance/MyApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/inheritance/Reader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/inheritance/Writer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture12/MobileAppTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture12/drivers/CameraScreen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture12/drivers/MainScreen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture12/drivers/MobileApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture12/drivers/PhotoEditorScreen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture12/drivers/PublishScreen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture12/drivers/android/AndroidCameraScreen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture12/drivers/android/AndroidMainScreen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture12/drivers/android/AndroidMobileApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture12/drivers/android/AndroidPhotoEditorScreen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture12/drivers/android/AndroidPublishScreen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture12/drivers/ios/IOSCameraScreen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture12/drivers/ios/IOSMainScreen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture12/drivers/ios/IOSMobileApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture12/drivers/ios/IOSPhotoEditorScreen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture12/drivers/ios/IOSPublishScreen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture13/OuterClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture_11/Parent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture_11/abstractt/AbsApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture_11/abstractt/MobilePhone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture_11/abstractt/OfficePhone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/lecture_11/abstractt/Phone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson/CustomNotFoundException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson/MyNewAppForExceptions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson/UserDataMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson/UserFileDataMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson2/ExceptionProgramm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AutomationCurse/users.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AutomationCurse/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../AutomationCurse/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson/User.java" afterPath="$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson/User.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../AutomationCurse/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -164,13 +26,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="34" column="44" lean-forward="false" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+            <state relative-caret-position="782">
+              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="method#encPass#0;class#UserBuilder#0;class#User#0" expanded="false" />
+                <element signature="e#2278#2279#0" expanded="true" />
+                <element signature="e#2314#2315#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigurationManager.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/config/ConfigurationManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+              <folding>
+                <element signature="e#700#701#0" expanded="true" />
+                <element signature="e#779#780#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -249,7 +129,6 @@
         <option value="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/webdrivermanager/factory/CloudWebDriverFactory.java" />
         <option value="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/webdrivermanager/WebDriverManager.java" />
         <option value="$PROJECT_DIR$/../AutomationCurse/src/Lesson3/Lecture3.java" />
-        <option value="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/config/ConfigurationManager.java" />
         <option value="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/logger/FileTestLogger.java" />
         <option value="$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson/UserDataMapper.java" />
         <option value="$PROJECT_DIR$/../AutomationCurse/user.txt" />
@@ -263,10 +142,11 @@
         <option value="$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson/UserFileDataMapper.java" />
         <option value="$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson/MyNewAppForExceptions.java" />
         <option value="$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson/User.java" />
+        <option value="$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/config/ConfigurationManager.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-7" />
     <option name="width" value="1378" />
     <option name="height" value="735" />
@@ -287,9 +167,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -312,7 +191,8 @@
               <item name="AutomationCurse" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutomationCurse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture_11" type="462c0819:PsiDirectoryNode" />
+              <item name="Infrastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutomationCurse" type="b2602c69:ProjectViewProjectNode" />
@@ -324,12 +204,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="SearchEverywhereHistoryKey" value="enum&#9;PSI&#9;JAVA://java.lang.Enum&#10;comparable&#9;PSI&#9;JAVA://java.lang.Comparable" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -577,25 +461,42 @@
       <option name="project" value="LOCAL" />
       <updated>1510499257396</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="11/12/2017 Update trycatch homework">
+      <created>1510499913262</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1510499913262</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
+    <frame x="-7" y="0" width="1378" height="735" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29900333" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38870433" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2367223" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24430956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -886,24 +787,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/config/ConfigurationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/webdrivermanager/factory/BuildSrvWebDriverFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/webdrivermanager/factory/LocalWebDriverFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -928,18 +816,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson2/ExceptionProgramm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson/UserDataMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -955,10 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
           <caret line="99" column="32" lean-forward="false" selection-start-line="99" selection-start-column="32" selection-end-line="99" selection-end-column="32" />
-          <folding>
-            <element signature="e#2350#2351#0" expanded="false" />
-            <element signature="e#2394#2395#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -966,18 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson/MyNewAppForExceptions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="72" lean-forward="false" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -985,9 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -998,15 +859,128 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/webdrivermanager/factory/LocalWebDriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson2/ExceptionProgramm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson/MyNewAppForExceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="72" lean-forward="false" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../AutomationCurse/src/trycatchlesson/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="34" column="44" lean-forward="false" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+        <state relative-caret-position="782">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="method#encPass#0;class#UserBuilder#0;class#User#0" expanded="false" />
+            <element signature="e#2278#2279#0" expanded="true" />
+            <element signature="e#2314#2315#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../AutomationCurse/src/Infrastructure/config/ConfigurationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AutomationCurse</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

@@ -80,7 +80,7 @@ public class User {
             return email;
         }
 
-        public User build(){
+        public User build() {
             return new User(this);
         }
     }
